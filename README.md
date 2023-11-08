@@ -1,1 +1,2 @@
-kobook aws resource version manage
+kobook aws resource README.md
+`AWS Lambda source code!`
